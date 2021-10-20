@@ -1,8 +1,8 @@
- 👋 Hi, I’m Jeroen
- 👀 I’m interested in automation
- 🌱 I’m currently learning DevOps & 3D modelling
+ 👋 Hi, I’m Jeroen <br/><br/>
+ 👀 I’m interested in automation<br/>
+ 🌱 I’m currently learning DevOps & 3D modelling<br/>
 
- 📫 jmbooij@avans.nl
+ 📫 jmbooij@avans.nl<br/>
 
 <!---
 JeroenMBooij/JeroenMBooij is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
