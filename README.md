@@ -1,5 +1,6 @@
  👋 Hi, I’m Jeroen <br/><br/>
- 👀 I’m interested in automation<br/>
+ 👀 I’m interested in automation and software development<br/>
+ 
  🌱 I’m currently learning DevOps & 3D modelling<br/>
 
  📫 jmbooij@avans.nl<br/>
