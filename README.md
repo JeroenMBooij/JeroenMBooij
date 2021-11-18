@@ -1,7 +1,7 @@
  👋 Hi, I’m Jeroen <br/><br/>
  👀 I’m interested in automation and software development<br/>
  
- 🌱 I’m currently learning .NET, Python and DevOps<br/>
+ 🌱 I’m currently learning .NET, Python, Javascript and DevOps<br/>
 
  📫 jmbooij@avans.nl<br/>
 
