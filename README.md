@@ -1,5 +1,5 @@
- 👋 <b>Hi there</b> <br/><br/>
- 👀 Welcome to my Github account<br/>
+👋 <b>Hi there</b> <br/><br/>
+Welcome to my Github account<br/>
  
  <h3> Public Stats </h3>
  
