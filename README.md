@@ -1,4 +1,4 @@
-👋 <b>Hi there</b> <br/><br/>
+👋 <b>Hi there</b> <br/>
 Welcome to my Github account<br/>
  
  <h3> Public Stats </h3>
