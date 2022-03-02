@@ -1,7 +1,7 @@
 👋 <b>Hi there</b> <br/>
 Welcome to my Github account<br/>
  
- <h3> Public Stats </h3>
+ <h3> Stats for public repositories </h3>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeroenMBooij&show_icons=true&theme=radical)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeroenMBooij&layout=compact&theme=radical)](https://github.com/JeroenMBooij/github-readme)
