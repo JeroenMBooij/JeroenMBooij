@@ -2,7 +2,7 @@
  👀 I’m interested in automation and software development<br/>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeroenMBooij&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeroenMBooij&layout=compact&theme=tokyonight)](https://github.com/JeroenMBooij/github-readme)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeroenMBooij&layout=compact&theme=radical)](https://github.com/JeroenMBooij/github-readme)
  
  🌱 I’m currently learning .NET, Python, Javascript and DevOps<br/>
 
